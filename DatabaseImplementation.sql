@@ -1,8 +1,3 @@
--- Group 8 Video Game Store Database Implementation
--- Group member : Anqi Guan, Chuhan Xu, Lin Ye, Xinyu Qiu, Yuwen Mai
--- CREATE DATABASE VideoGameStore;
--- USE VideoGameStore;  
-
 /*WARNING: Only executes when testing
 DROP TABLE IF EXISTS OrderDetails;
 DROP TABLE IF EXISTS Payment;
